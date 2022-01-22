@@ -1,0 +1,17 @@
+{
+  "name": "expressglitch",
+  "version": "1.0.0",
+  "description": "Repositorio para glitch de desafío Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "Nadir Hierro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
